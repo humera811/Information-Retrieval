@@ -1,0 +1,47 @@
+Name: Humera Bano
+USC ID: 7255691039
+News site crawled: https://www.wsj.com
+Number of threads: 20
+
+Fetch Statistics:
+================
+# fetches attempted: 20000
+# fetches succeeded: 12250
+# fetches failed or aborted: 7750
+
+Outgoing URLs:
+==============
+Total URLs extracted: 3507720
+# unique URLs extracted: 83943
+# unique URLs within News Site: 58154
+# unique URLs outside News Site: 25789
+
+Status Codes:
+=============
+200 OK: 12250
+301 Moved Permanently: 1694
+302 Found: 18
+307 Temporary Redirect: 117
+308 Permanent Redirect: 1
+400 Bad Request: 2
+401 Unauthorized: 12
+403 Forbidden: 5647
+404 Not Found: 171
+500 Internal Server Error: 86
+504 Gateway Timeout: 1
+
+File Sizes:
+===========
+< 1KB: 1
+1KB ~ <10KB: 180
+10KB ~ <100KB: 99
+100KB ~ <1MB: 11207
+>= 1MB: 758
+
+Content Types:
+==============
+image/png: 208
+text/html: 12022
+image/jpeg: 12
+image/svg+xml: 2
+image/vnd.microsoft.icon: 1
